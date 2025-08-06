@@ -39,11 +39,6 @@ I'm a Computer Science Engineering and Computational Mathematics student at The 
 - Improved search result loading times by 15% through optimized React data handling
 - Integrated real-time chat capabilities boosting user interaction by 30%
 
-### MealPlan - Intelligent Meal Planning Assistant
-- Created a personalized meal planning application that generates recipes based on dietary preferences and available ingredients
-- Implemented machine learning algorithms to recommend meals based on user preferences
-- Reduced food waste by 25% through smart inventory management features
-
 ### Course Scheduling for Degree Planning
 - Designed an optimization tool reducing course selection time by 20%
 - Utilized tree data structures and NLP for prerequisite mapping and improved graduation timelines
